@@ -17,7 +17,8 @@ const About = () => {
               <p>Hi. I'm Chenuka, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p className='font-bold'> I am a keen and highly ambitious Software Engineering undergraduate with a
+              <p className='font-bold'> I am a keen and highly ambitious Software Engineering undergraduate at Informatics Institute of Technology (IIT) , I studied in Lyceum 
+              Internation School Nugegoda in which the subject computer science rooted my ambition of being a Software Engineer, with a
                 passion for exploring many new technologies in the IT industry. I am able to
                 adapt to working in a team to provide scalable, high-quality solutions.
                 Proficient in ReactJS , Java, Python, HTML, JavaScript, and CSS with a

@@ -20,7 +20,7 @@ const Home = () => {
         <p className='text-[#2A0E44] text-1xl py-4 max-w-[700px] font-bold' >
           I’m a full-stack developer specializing in building (and occasionally
           designing) exceptional digital experiences. Currently, I’m focused on
-          building responsive full-stack web applications.
+          building responsive full-stack web applications along with countinously progressing with multiple java projects.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#6906AE] hover:border-white'>
