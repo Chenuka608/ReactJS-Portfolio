@@ -1,6 +1,6 @@
 import React from 'react';
 import Python from '../images/Python-Logo.png';
-import htmlcssjs from '../images/htmlcssjs.png';
+import htmlcssjs from '../images/html.png';
 import java from '../images/javaL.png';
 import react from '../images/react.png';
 
@@ -26,7 +26,7 @@ const Work = () => {
         </div>
         <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div relative'>
           {/* Project Image */}
-          <img src={htmlcssjs} alt='Project 2' className='rounded-md w-full h-full object-cover max-w-[800px] max-h-[300px]' />
+          <img src={htmlcssjs} alt='Project 2' className='rounded-md w-full h-full object-cover max-w-[300px] max-h-[400px]' />
           {/* Overlay */}
           <div className='absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 flex justify-center items-center transition-opacity duration-300 hover:scale-102'>
             <button className='text-white px-4 py-2 border border-white rounded-md'onClick={() => handleViewProjectClick('https://aashif-m.github.io/Athletica/')}>View Project</button>
